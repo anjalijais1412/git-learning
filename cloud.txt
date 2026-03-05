@@ -1,0 +1,3 @@
+Cloud computing is the delivery of computing services such as storage, servers, and databases over the internet.
+It allows users to access resources on demand without managing physical infrastructure.
+Cloud platforms help organizations scale applications easily.
